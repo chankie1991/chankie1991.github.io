@@ -1,5 +1,5 @@
 # Site settings
-title: Chankie's Blog 
+title: Chankie Blog
 SEOTitle: 无尘弟弟的博客 | Chankie's Blog
 header-img: img/post-bg-desk.jpg
 email: Chankie1991@163.com
@@ -72,9 +72,9 @@ gitalk:
 
 # 统计
 
- Analytics settings
- Baidu Analytics
- ba_track_id: b001fecf532aabb8300e3c89aa5f4ff6
+ #Analytics settings
+ #Baidu Analytics
+ #ba_track_id: b001fecf532aabb8300e3c89aa5f4ff6
 
 
 # Google Analytics
